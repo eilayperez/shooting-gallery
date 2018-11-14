@@ -1,8 +1,8 @@
 {
-    "id": "e3feaed3-a732-42cd-b18b-4ec12b4c4b09",
+    "id": "7161848f-68b9-4c1f-b802-2f66ffd10c32",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "taregtbullet1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4699215e-f764-4672-8cf4-f315fc7a9d6d",
+    "spriteId": "ed708cd3-fed8-455b-a839-c20ce21ca267",
     "visible": true
 }

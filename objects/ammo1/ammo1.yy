@@ -1,8 +1,8 @@
 {
-    "id": "e3feaed3-a732-42cd-b18b-4ec12b4c4b09",
+    "id": "50e61175-0767-44bf-a7f8-da36fba9d4f9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "ammo1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "4699215e-f764-4672-8cf4-f315fc7a9d6d",
+    "spriteId": "d9ef2377-6260-4a6f-aff2-917ef770eb39",
     "visible": true
 }
