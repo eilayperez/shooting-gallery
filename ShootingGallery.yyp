@@ -365,6 +365,14 @@
                 "resourcePath": "sprites\\taregtbullet\\taregtbullet.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fff38c7a-9b90-4056-84f0-143a5692f8dc",
+            "Value": {
+                "id": "93a9db40-f014-425e-827f-7db8228a899a",
+                "resourcePath": "objects\\object_score\\object_score.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
