@@ -2,7 +2,7 @@
     "id": "01a8c94f-d2d8-4f1f-8a04-5ade1ba1d5d0",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "ducktarget",
+    "name": "sprite_duck_target",
     "For3D": false,
     "HTile": false,
     "VTile": false,

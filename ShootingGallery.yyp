@@ -34,7 +34,7 @@
             "Key": "01a8c94f-d2d8-4f1f-8a04-5ade1ba1d5d0",
             "Value": {
                 "id": "31c57362-3e2a-4467-9507-8f9224b3cef8",
-                "resourcePath": "sprites\\ducktarget\\ducktarget.yy",
+                "resourcePath": "sprites\\sprite_duck_target\\sprite_duck_target.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -180,6 +180,14 @@
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
                 "resourcePath": "views\\6f7b4b77-33f8-4f55-b86b-594a7b9fde6a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fa2950d-fa98-4122-943e-86d57d266797",
+            "Value": {
+                "id": "e8288efd-6112-41a3-b43e-bfe30417a85c",
+                "resourcePath": "objects\\object_duck_target\\object_duck_target.yy",
+                "resourceType": "GMObject"
             }
         },
         {
