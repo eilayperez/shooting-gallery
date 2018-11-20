@@ -2,7 +2,7 @@
     "id": "a53daab8-602b-4597-a2ab-71af156222ab",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "target",
+    "name": "sprite_target",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -55,7 +55,7 @@
         }
     ],
     "origin": 4,
-    "originLocked": false,
+    "originLocked": true,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
