@@ -1,8 +1,8 @@
 {
-    "id": "26fc068c-f8ce-4709-8255-6946df8d0efc",
+    "id": "63286cab-3418-4126-b7bc-021b040e4087",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "gameover1",
+    "name": "object_gameover",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c6acbfee-61a8-44ee-8e1a-ff4ca68c10c7",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
