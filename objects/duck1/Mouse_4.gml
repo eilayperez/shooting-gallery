@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
 /// @DnDHash : 3C3D378F
-/// @DnDApplyTo : fff38c7a-9b90-4056-84f0-143a5692f8dc
+/// @DnDApplyTo : 1d9d4aca-6678-4283-9a42-1e581c6fafe6
 /// @DnDArgument : "score" " 10"
 /// @DnDArgument : "score_relative" "1"
-with(object_score) {
+with(object_controller) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
 __dnd_score += real( 10);
 }
